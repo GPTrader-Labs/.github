@@ -25,7 +25,7 @@ We are building the infrastructure for the next generation of algorithmic tradin
 - **Non-Custodial:** API-based execution. We never touch user funds.
 
 ### 📂 Quick Start Resources
-- [**Start your $7 Trial**](https://gptrader.app) - Deploy an agent in 2 minutes.
+- [**Start your Trial**](https://gptrader.app) - Deploy an agent in 2 minutes.
 - [**Agent Templates**](https://github.com/GPTrader-Labs/gptrader-agent-templates) - Copy/Paste strategies.
 - [**API Docs**](https://gptrader.app/whitebook) - For developers.
 
